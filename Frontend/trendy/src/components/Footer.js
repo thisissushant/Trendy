@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       <div>
-        <nav className="bg-slate-950 p-4 font-Primary border-solid border-2 border-green-100">
+        <nav className="bg-black p-4 font-Primary  border-green-100">
           <div className="container mx-auto flex justify-between items-center">
             <div className="  grid grid-cols-1  place-content-center text-2xl ml-10">
               <a

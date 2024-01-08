@@ -1,14 +1,14 @@
 import Footer from "./Footer";
-import Hero from "./Hero";
 import Products from "./Products";
 import Navbar from "./Navbar";
 import HeroSection from "./HeroSection";
+import Trending from "./Trending";
 function App() {
   return (
     <>
       <Navbar />
       <HeroSection />
-      <Hero />
+      <Trending />
       <Products />
       <Footer />
     </>
