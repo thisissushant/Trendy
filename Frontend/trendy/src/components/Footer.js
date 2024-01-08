@@ -44,7 +44,7 @@ const Footer = () => {
           <div className="grid  place-content-center">
             <p className="text-green-400 text-sm font-Secondary">
               {" "}
-              &copy;2021 THE TRENDY
+              &copy;2024 THE TRENDY
             </p>
           </div>
         </nav>
