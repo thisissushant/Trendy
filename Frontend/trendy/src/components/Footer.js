@@ -5,9 +5,9 @@ const Footer = () => {
   return (
     <>
       <div>
-        <nav className="bg-black p-4 font-Primary  border-green-100">
+        <nav className="bg-black p-4 font-Secondary border-green-100">
           <div className="container mx-auto flex justify-between items-center">
-            <div className="  grid grid-cols-1  place-content-center text-2xl ml-10">
+            <div className="  grid grid-cols-1  place-content-center text-xl ml-10">
               <a
                 href="/#"
                 className="text-green-400 hover:text-green-100   "
@@ -37,7 +37,7 @@ const Footer = () => {
                 Contact
               </a>
             </div>
-            <div className="text-green-400 hover:text-red-500 font-extrabold text-4xl md:text-6xl ">
+            <div className=" font-Primary text-green-400 hover:text-red-500 font-extrabold text-4xl md:text-6xl ">
               Trendy
             </div>
           </div>

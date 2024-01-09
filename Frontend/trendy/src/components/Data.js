@@ -1,4 +1,4 @@
-const products = [
+export const products = [
   {
     id: 1,
     name: "Earthen Bottle",
@@ -41,5 +41,15 @@ const products = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
   },
 ];
-
-export default products;
+export const trending = [
+  {
+    id: 1,
+    name: "Machined Mechanical Pencil",
+    href: "#",
+    price: "Rs 3500",
+    imageSrc:
+      "https://images.pexels.com/photos/1537671/pexels-photo-1537671.jpeg",
+    imageAlt:
+      "Hand holding black machined steel mechanical pencil with brass tip and top.",
+  },
+];
