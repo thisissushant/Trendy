@@ -83,3 +83,20 @@ export const trending = [
       "Hand holding black machined steel mechanical pencil with brass tip and top.",
   },
 ];
+export const navbarLinks = [
+  {
+    id: 1,
+    title: "Home",
+    link: "HeroSection",
+  },
+  {
+    id: 2,
+    title: "Products",
+    link: "Products",
+  },
+  {
+    id: 3,
+    title: "Trending",
+    link: "Trending",
+  },
+];

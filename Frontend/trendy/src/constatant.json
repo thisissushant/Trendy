@@ -1,0 +1,24 @@
+{
+  "navbarLinks": [
+    {
+      "id": 1,
+      "title": "HOME",
+      "link": "heroSection"
+    },
+    {
+      "id": 2,
+      "title": "ABOUT US",
+      "link": "about"
+    },
+    {
+      "id": 3,
+      "title": "TRENDING",
+      "link": "trending"
+    },
+    {
+      "id": 4,
+      "title": "PRODUCTS",
+      "link": "products"
+    }
+  ]
+}

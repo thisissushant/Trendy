@@ -5,7 +5,7 @@ const HeroSection = () => {
     <>
       <div>
         <div className="w-full h-full bg-black text-center pt-52 ">
-          <h1 className=" text-8xl font-Primary font-extrabold text-green-400  ">
+          <h1 className=" text-9xl font-Primary font-extrabold text-green-400  ">
             Sneaker Store
           </h1>
           <h3 className="text-green-400 text-4xl font-Primary mt-5">
