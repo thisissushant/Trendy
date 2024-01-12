@@ -37,15 +37,15 @@ const Footer = () => {
                 Contact
               </a>
             </div>
+            <div className="grid  place-content-center">
+              <p className="text-slate-200 text-sm font-Secondary">
+                {" "}
+                &copy;2024 THE TRENDY
+              </p>
+            </div>
             <div className=" font-Primary text-green-400 hover:text-red-500 font-extrabold text-4xl md:text-6xl ">
               Trendy
             </div>
-          </div>
-          <div className="grid  place-content-center">
-            <p className="text-slate-200 text-sm font-Secondary">
-              {" "}
-              &copy;2024 THE TRENDY
-            </p>
           </div>
         </nav>
       </div>

@@ -39,7 +39,19 @@ nav .navLinks .links a:hover {
   transition: 0.3s;
   cursor: pointer;
 }
-
+nav .menuBtn {
+  padding: 8px 20px;
+  background: transparent;
+  border: 1px solid #333;
+  border-radius: 20px;
+  font-size: 16px;
+}
+nav .menuBtn:hover {
+  color: greenyellow;
+  background: #222;
+  transition: 0.3s;
+  cursor: pointer;
+}
 nav .hamburger {
   display: none;
 }
