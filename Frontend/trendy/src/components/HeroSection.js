@@ -1,9 +1,11 @@
 import React from "react";
+import Navbar from "./Navbar";
 
 const HeroSection = () => {
   return (
     <>
-      <div>
+      <section>
+        <Navbar />
         <div className="w-full h-full bg-black text-center pt-52 ">
           <h1 className=" text-9xl font-Primary font-extrabold text-green-400  ">
             Sneaker Store
@@ -15,7 +17,7 @@ const HeroSection = () => {
             Visit Now
           </button>
         </div>
-      </div>
+      </section>
     </>
   );
 };

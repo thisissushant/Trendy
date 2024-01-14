@@ -33,7 +33,7 @@ const Navbar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i class="fa-solid fa-cart-shopping"></i>
+            <i className="fa-solid fa-cart-shopping"></i>
           </Link>
           <Link
             className="text-green-400 hover:text-white text-3xl mx-2"
@@ -41,7 +41,7 @@ const Navbar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i class="fa-solid fa-user"></i>{" "}
+            <i className="fa-solid fa-user"></i>{" "}
           </Link>
         </div>
 
